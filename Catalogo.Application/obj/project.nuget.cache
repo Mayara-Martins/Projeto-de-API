@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8YafD89q6jCver3jV+0MMQpvHbL7ALlajOFiarYUTnw/kEoFJinMjIo3k8agoLvhAHsmFWU869tKzQoMzK8EqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mayara Lima\\Desktop\\Novo-projeto-02\\Catalogo.Application\\Catalogo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayara Lima\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Mayara Lima\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mayara Lima\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
